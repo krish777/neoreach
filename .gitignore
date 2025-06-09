@@ -1,0 +1,44 @@
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build directories
+dist/
+build/
+coverage/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other generated files
+*.sqlite3
+*.db
+*.pem
+*.pid
+*.bak
+*.swp
