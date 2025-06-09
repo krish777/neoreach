@@ -55,12 +55,8 @@ neoreach/
 ```
 
 🛠️ Installation
-Prerequisites
-Docker 20.10+
+git clone
 
-Python 3.9+
-
-git clone https://github.com/yourusername/neoreach.git
 cd neoreach
 
 cp .env.example .env
@@ -77,7 +73,9 @@ NEO4J_PASSWORD=
 HF_API_KEY=your_huggingface_key
 
 Getting Started 🚀
+
 Prerequisites
+
 Docker 24.0+
 
 Python 3.10+
@@ -85,9 +83,3 @@ Python 3.10+
 Neo4j 5.11+
 
 CrewAI 0.28+
-
-Key Components 🔍
-Module Technology Stack Leadership Value
-Change Detection CrewAI + LangChain Real-time market intelligence
-Relationship Mapping Neo4j + Graph Algorithms Strategic org insights
-Approval Workflows Streamlit + FastAPI Compliance assurance
